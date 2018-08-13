@@ -3,8 +3,8 @@
 of programmer, expertise level and number of correct attempts, time taking to solve problem & so on,the corresponding
 problem is recommended.</br>
 •The goal is to build a model that will predict range of attempts a user will make to solve problem depending on the user current status and problem difficulty.</br>
-•Used build item popularity, item similarity, Item content Model, Matrix factorization(SVD,SVD++,clustering algorithms (KNNBasic,co-clustering) algorithms.</br>
-• packages used are GraphLab, Surprise, NumPy, Pandas.</br>
+•Used build item popularity, item similarity, Item content Model, Matrix factorization algorithms.</br>
+• packages used are GraphLab, NumPy, Pandas.</br>
 
 
 # Techniques
